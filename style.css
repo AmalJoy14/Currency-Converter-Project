@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    user-select: none;
+    font-family: serif;
+}
+body{
+    height: 100vh;
+    background-color: #24aae2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height: 390px;
+    width: 350px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px black;
+}
+h1{
+    text-align: center;
+    font-family: "Anta";
+    font-weight: 100;
+    padding-top: 10px;
+}
+.Amount{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+input{
+    width: 290px;
+    line-height: 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+    padding-left: 10px;
+    margin-top: 5px;
+    border: 2px solid grey;
+}
+img{
+    height: 30px;
+    filter:drop-shadow(1px 1px 1px black );
+}
+.FromAndTo{
+    display: flex;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.fa-solid{
+    padding-top: 15px;
+}
+.country{
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 7px;
+    border: 2px solid grey;
+}
+.list{
+    border: none;
+    font-weight: 700;
+}
+.text{
+    margin-left: 25px;
+    font-family: "Anta";
+    font-weight: 500;
+}
+.submit{
+    height: 40px;
+    width:86%;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 15px;
+    background-color: #1171ba;
+    border-radius: 10px;
+    color: white;
+    font-size: 110%;
+    font-family: "Anta";
+    cursor: pointer;
+}
