@@ -24,7 +24,7 @@ Step 4: Click "Get Exchange Rate"
 ### Future Plans
 We hope to share this with our peers for easy conversion of currency.
 
-### Team Name: <404>
+### Our Team Name: <404>
 
 ### Members:
 1) Amal Joy
